@@ -31,7 +31,7 @@ A comprehensive Django-based travel listings platform with REST API, Swagger doc
 
 2. **Create and activate virtual environment:**
    ```bash
-   python3 -m venv venv
+   python3 -m venv backend_env
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
